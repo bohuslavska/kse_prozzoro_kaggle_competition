@@ -3,6 +3,7 @@
 The **KSE – Prozorro. Predict Auction Participation** competition asked participants to predict bidder-participation demand for Ukraine's [Prozorro.Sale](https://prozorro.sale/) public e-auctions. Each lot had to be assigned one of four ordered demand classes, `target ∈ {0, 1, 2, 3}`, and submissions were evaluated using **Quadratic Weighted Kappa (QWK)** on a time-based test set.
 
 **Final competition score: 0.7118 — 2nd place (Phase-2: Final Leaderboard)**
+
 **Kaggle competiton link: https://www.kaggle.com/competitions/kse-prozorro-predict-auction-participation**
 
 ---
