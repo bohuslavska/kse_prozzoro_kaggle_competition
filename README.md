@@ -4,6 +4,7 @@ The **KSE – Prozorro. Predict Auction Participation** competition asked partic
 
 **Final competition score: 0.7118 — 2nd place (Phase-2: Final Leaderboard)**
 
+
 **Kaggle competiton link: https://www.kaggle.com/competitions/kse-prozorro-predict-auction-participation**
 
 ---
